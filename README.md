@@ -1,2 +1,19 @@
-# music-recommendation-system-algorithms
-Codes for music recommendation system algorithms implemented for comparison while working on a review paper.
+## About The Repository
+
+In this repository, I have added the codes for the algorithms that I along with my team used for comparison while working on a research paper. Our research paper titled 'Comparison of Different Music Recommendation System Algorithms' was written in order to compare different machine learning and deep learning algorithms and to find which was has the highesy accuracy for providing appropriate music recommendations. The algorithms that were compared are - Singular Value Decomposition, Deep Neural Networks, Restricted Boltzmann Machine, Bayesian Personalized Ranking and Autoencoders. 
+
+### Technical Stack
+
+* Python
+* Jupyter Notebook
+
+### Contributing
+
+This repository is not open for contributions. But any suggestions regarding the implementation are **highly appreciated**. 
+
+### Contact
+
+LinkedIn - https://www.linkedin.com/in/stuti-dhebar/
+
+Twitter - https://twitter.com/StutiD5
+
